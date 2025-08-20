@@ -35,3 +35,6 @@ Place your Excel file in the project folder and name it input.xlsx.
 Run the script
 
 The result will be saved in output.xlsx with the new Average column and a bar chart.
+
+<img width="680" height="511" alt="Знімок екрана (408)" src="https://github.com/user-attachments/assets/758b3316-d04c-4844-a225-e3b9f92ce707" />
+

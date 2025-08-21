@@ -31,7 +31,7 @@ def process_excel(input_file, output_file):
     ws.add_chart(chart, "E2")
     wb.save(output_file)
 
-    print(f"\n✅ The result is saved in {output_file} with a graph and a column")
+    print(f"\n The result is saved in {output_file} with a graph and a column")
 
 if __name__ == "__main__":
     process_excel("input.xlsx", "output.xlsx")
